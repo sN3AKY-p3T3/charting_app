@@ -1,2 +1,2 @@
 # charting_app
-a web app to create candlestick charts.
+a local app to create candlestick charts.
